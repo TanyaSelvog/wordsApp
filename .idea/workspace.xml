@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87e8ef0f-aa6d-4ab2-b429-33c38a0009cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/home.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/home.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/home.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +73,8 @@
       <workItem from="1718650903047" duration="294000" />
       <workItem from="1718651214251" duration="593000" />
       <workItem from="1718658541361" duration="360000" />
+      <workItem from="1718664420403" duration="63000" />
+      <workItem from="1718665042559" duration="22000" />
     </task>
     <servers />
   </component>
