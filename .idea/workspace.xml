@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87e8ef0f-aa6d-4ab2-b429-33c38a0009cc" name="Changes" comment="created quoteLbl in home.fxml" />
+    <list default="true" id="87e8ef0f-aa6d-4ab2-b429-33c38a0009cc" name="Changes" comment="added fx:ids for home.fxml">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/WordListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/wordList.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +36,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2i1GveLvlK5weYswsj9D0ERD2sf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,6 +80,8 @@
       <workItem from="1718665415662" duration="17000" />
       <workItem from="1718665649887" duration="4000" />
       <workItem from="1718668288316" duration="60000" />
+      <workItem from="1718760676856" duration="630000" />
+      <workItem from="1718761646530" duration="102000" />
     </task>
     <task id="LOCAL-00001" summary="created quoteLbl in home.fxml">
       <option name="closed" value="true" />
@@ -83,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718668343254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added fx:ids for home.fxml">
+      <option name="closed" value="true" />
+      <created>1718760858077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718760858077</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created quoteLbl in home.fxml" />
-    <option name="LAST_COMMIT_MESSAGE" value="created quoteLbl in home.fxml" />
+    <MESSAGE value="added fx:ids for home.fxml" />
+    <option name="LAST_COMMIT_MESSAGE" value="added fx:ids for home.fxml" />
   </component>
 </project>
