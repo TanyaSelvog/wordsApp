@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87e8ef0f-aa6d-4ab2-b429-33c38a0009cc" name="Changes" comment="added fx:ids for home.fxml">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/WordListController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/wordList.fxml" afterDir="false" />
+    <list default="true" id="87e8ef0f-aa6d-4ab2-b429-33c38a0009cc" name="Changes" comment="added table to wordList.fxml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/home.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/home.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/wordList.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/wordList.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,19 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,7 +83,9 @@
       <workItem from="1718665649887" duration="4000" />
       <workItem from="1718668288316" duration="60000" />
       <workItem from="1718760676856" duration="630000" />
-      <workItem from="1718761646530" duration="102000" />
+      <workItem from="1718761646530" duration="211000" />
+      <workItem from="1718762081636" duration="89000" />
+      <workItem from="1718762288045" duration="215000" />
     </task>
     <task id="LOCAL-00001" summary="created quoteLbl in home.fxml">
       <option name="closed" value="true" />
@@ -99,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718760858077</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added table to wordList.fxml">
+      <option name="closed" value="true" />
+      <created>1718761769863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718761769863</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +120,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created quoteLbl in home.fxml" />
     <MESSAGE value="added fx:ids for home.fxml" />
-    <option name="LAST_COMMIT_MESSAGE" value="added fx:ids for home.fxml" />
+    <MESSAGE value="added table to wordList.fxml" />
+    <option name="LAST_COMMIT_MESSAGE" value="added table to wordList.fxml" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
