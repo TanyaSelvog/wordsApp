@@ -5,9 +5,9 @@
 
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.wordsapp.HomeController">
    <children>
-      <Button layoutX="387.0" layoutY="229.0" mnemonicParsing="false" text="Submit" />
+      <Button fx:id="onSubmitBtn" layoutX="387.0" layoutY="229.0" mnemonicParsing="false" text="Submit" />
       <Label layoutX="251.0" layoutY="51.0" text="Positive Words" />
-      <TextField layoutX="125.0" layoutY="229.0" />
+      <TextField fx:id="wordTF" layoutX="125.0" layoutY="229.0" />
       <Label fx:id="quoteLbl" layoutX="87.0" layoutY="112.0" text="Label" />
    </children>
 </AnchorPane>

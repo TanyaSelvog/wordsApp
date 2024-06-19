@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87e8ef0f-aa6d-4ab2-b429-33c38a0009cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/home.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/home.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="87e8ef0f-aa6d-4ab2-b429-33c38a0009cc" name="Changes" comment="created quoteLbl in home.fxml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,11 +73,24 @@
       <workItem from="1718665042559" duration="22000" />
       <workItem from="1718665415662" duration="17000" />
       <workItem from="1718665649887" duration="4000" />
-      <workItem from="1718668288316" duration="38000" />
+      <workItem from="1718668288316" duration="60000" />
     </task>
+    <task id="LOCAL-00001" summary="created quoteLbl in home.fxml">
+      <option name="closed" value="true" />
+      <created>1718668343254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718668343254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created quoteLbl in home.fxml" />
+    <option name="LAST_COMMIT_MESSAGE" value="created quoteLbl in home.fxml" />
   </component>
 </project>
