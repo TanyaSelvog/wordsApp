@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87e8ef0f-aa6d-4ab2-b429-33c38a0009cc" name="Changes" comment="added table to wordList.fxml">
+    <list default="true" id="87e8ef0f-aa6d-4ab2-b429-33c38a0009cc" name="Changes" comment="changed fxmlloader to home.fxml">
+      <change afterPath="$PROJECT_DIR$/src/main/WordsApplicationMain" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Quotes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/home.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/home.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/wordList.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/wordList.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wordsapp/WordListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/WordListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/home.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/home.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/wordsapp/wordList.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/wordList.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +32,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -48,7 +56,9 @@
   "keyToString": {
     "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-22 (3)",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/tanyaselvog/IdeaProjects/wordsApp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +68,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/controller" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/views" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,7 +102,19 @@
       <workItem from="1718760676856" duration="630000" />
       <workItem from="1718761646530" duration="211000" />
       <workItem from="1718762081636" duration="89000" />
-      <workItem from="1718762288045" duration="215000" />
+      <workItem from="1718762288045" duration="240000" />
+      <workItem from="1718762621493" duration="75000" />
+      <workItem from="1718762714615" duration="55000" />
+      <workItem from="1718762786790" duration="429000" />
+      <workItem from="1718763227252" duration="6000" />
+      <workItem from="1718763481168" duration="93000" />
+      <workItem from="1718763777698" duration="395000" />
+      <workItem from="1718844340823" duration="691000" />
+      <workItem from="1718860206328" duration="31000" />
+      <workItem from="1718860246124" duration="27000" />
+      <workItem from="1718860396799" duration="742000" />
+      <workItem from="1718861144772" duration="1000" />
+      <workItem from="1718929767670" duration="500000" />
     </task>
     <task id="LOCAL-00001" summary="created quoteLbl in home.fxml">
       <option name="closed" value="true" />
@@ -111,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718761769863</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed fxmlloader to home.fxml">
+      <option name="closed" value="true" />
+      <created>1718762524303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718762524303</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +158,8 @@
     <MESSAGE value="created quoteLbl in home.fxml" />
     <MESSAGE value="added fx:ids for home.fxml" />
     <MESSAGE value="added table to wordList.fxml" />
-    <option name="LAST_COMMIT_MESSAGE" value="added table to wordList.fxml" />
+    <MESSAGE value="changed fxmlloader to home.fxml" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed fxmlloader to home.fxml" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
